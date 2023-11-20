@@ -13,6 +13,7 @@ body {
 	background-repeat: no-repeat;
 	background-size: contain;
 	display: flex;
+	flex-direction: column;
 	align-items: center;
 	justify-content: center;
 	min-height: 100vh;
@@ -27,6 +28,7 @@ body {
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
+	margin-bottom: 30px;
 }
 
 .illustration-hero {
