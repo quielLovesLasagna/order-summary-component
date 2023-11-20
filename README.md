@@ -23,12 +23,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Preview desktop](./design/desktop-design.jpg)
+![Preview mobile](./design/mobile-design.jpg)
+![Preview hover state](./design/active-states.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/quielLovesLasagna/order-summary-component](https://github.com/quielLovesLasagna/order-summary-component)
+- Live Site URL: [https://quiel-order-summary-component.netlify.app/](https://quiel-order-summary-component.netlify.app/)
 
 ## My process
 
@@ -39,7 +41,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [quielLovesLasagna]()
+- Website - [quielLovesLasagna](https://github.com/quielLovesLasagna)
 - Frontend Mentor - [@quielLovesLasagna](https://www.frontendmentor.io/profile/quielLovesLasagna)
 
 ## Acknowledgments
